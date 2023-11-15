@@ -1,0 +1,36 @@
+* {
+
+    font-family:'Times New Roman', Times, serif;
+}
+
+.div1{
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+    color:red
+}
+
+.bull{
+    color: black;
+    font-size:xx-large;
+
+}
+
+p {
+    text-align: left;
+    font-weight: 300;
+
+}
+
+b{
+    font-size: large;
+    
+}
+
+.table1 {
+    border: 2px solid black;
+    border-style:double;
+  }
+  .p1{ 
+    padding-left:10%;
+  }
